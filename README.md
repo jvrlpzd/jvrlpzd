@@ -1,14 +1,14 @@
 <h1 align="center">Hi 👋, I'm Javier</h1>
 <h3 align="center">A curious fullstack developer from Spain 🇪🇸, living in France 🇫🇷</h3>
 
+- 💪🏼 I’m looking for a first job as web developer
+
 - 🔭 I’m currently working on [Virtual Met'Art](https://github.com/WildCodeSchool/P2_404-Project-Not-Found_Lyon-React-Sept-2022)
 
 - 🌱 I’m currently learning **React.js, Node.js.**
 
-- 📄 Know about my experiences [www.linkedin.com/in/javierlopezd](www.linkedin.com/in/javierlopezd)
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
+<h3 align="center">Connect with me:</h3>
+<p align="center">
 <a href="https://linkedin.com/in/javierlopezd" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="javierlopezd" height="30" width="40" /></a>
 </p>
 
