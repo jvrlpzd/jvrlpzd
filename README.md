@@ -3,7 +3,7 @@
 
 - 💪🏼 I’m looking for a first job as web developer
 
-- 🔭 I’m currently working on [Virtual Met'Art](https://github.com/WildCodeSchool/P2_404-Project-Not-Found_Lyon-React-Sept-2022)
+- 🔭 I’m currently working on [Projet de communication interne ENEDIS](https://github.com/WildCodeSchool/P3_Enedis_Lyon_React_Sept_2022)
 
 - 🌱 I’m currently learning **React.js, Node.js.**
 
