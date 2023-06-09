@@ -3,6 +3,10 @@
 
 - 💪🏼 I’m currently working at [SQLI](https://www.sqli.com/int-en) (and we use GitLab, that's why my activity on GitHub looks like I'm on vacation !)
 
+<p align="center">
+<img src="https://imgur.com/lDKwYdH.png" alt="GitLabActivity"/>
+</p>
+  
 - 🔭 I’m currently working on a mobile cross-platform project.
 
 - 🌱 I’m currently working with  **React Native**, **TypeScript** and **React.js**
