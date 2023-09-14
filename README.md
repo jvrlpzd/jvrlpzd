@@ -1,13 +1,9 @@
 <h1 align="center">Hi 👋, I'm Javier</h1>
 <h3 align="center">A curious fullstack developer from Spain 🇪🇸, living in France 🇫🇷</h3>
 
-- 💪🏼 I’m currently working at [SQLI](https://www.sqli.com/int-en) (and we use GitLab, that's why my activity on GitHub looks like I'm on vacation !)
-
-<p align="center">
-<img src="https://imgur.com/lDKwYdH.png" alt="GitLabActivity"/>
-</p>
+- 💪🏼 I’m currently working at [SQLI](https://www.sqli.com/int-en) 
   
-- 🔭 I’m currently working on a mobile cross-platform project.
+- 🔭 I’m currently working on mobile cross-platform projects.
 
 - 🌱 I’m currently working with  **React Native**, **TypeScript** and **React.js**
 
